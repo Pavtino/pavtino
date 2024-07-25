@@ -24,7 +24,7 @@
 
 I'm Software Engineer in Cameroon.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on deep learning model and IoT to improve crop monitoring
 - 🌱 Exploring technical content writing.
 - 👯 I’m looking to collaborate on project related to artificial intelligence, GIS and IoT
 - 🤔 I’m looking for help with ...
