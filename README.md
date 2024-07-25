@@ -10,7 +10,7 @@ I'm Software Engineer in Cameroon.
 - 👯 I’m looking to collaborate on project related to artificial intelligence, GIS and IoT
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about mys listing techstack and area like artificial intelligence, microservices and IoT
-- 📫 How to reach me:<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="40" height="40"/>
+- 📫 How to reach me:<a href="https://linkedin.com/in/martin-ange-mabalkam"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="20" height="20"/></a>
 - 😄 Pronouns: ...
 - ⚡ In my free time, I solve problem on kaggle, GeeksforGeeks, hackerranck and read scientific article
 
